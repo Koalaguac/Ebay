@@ -1,0 +1,12 @@
+{
+  "name": "ebay-notification-server",
+  "version": "1.0.0",
+  "description": "Server to handle eBay Marketplace Account Deletion/Closure Notifications",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
